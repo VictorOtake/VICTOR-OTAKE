@@ -1,3 +1,3 @@
-name=input("digite seu nome: ") 
-age=input("digite sua idade: ") 
-print(f"ola {name}!, você tem {age} anos.")
+# 2. faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo
+caracter = input("Digite alguam coisa ai: ")
+print (type(caracter))
